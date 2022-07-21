@@ -1,2 +1,2 @@
-# TS_-_JS_data-formatter-
-Small helpers functions to check the data types
+# Description
+This repo aims to provide small utility functions to check the type of data. Really used to check the type of data returned by APIs
